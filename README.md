@@ -2,6 +2,8 @@
 
 ![Animation of four 3D point clouds rotating](point_e/examples/paper_banner.gif)
 
+# https://colab.research.google.com/drive/1CGJo16v_LburYrgcj9JCsC4hkUiz29Jl?usp=sharing#scrollTo=RNpaNpz84lxU
+
 This is the official code and model release for [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751).
 
 # Usage
